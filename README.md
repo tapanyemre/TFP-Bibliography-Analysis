@@ -3,7 +3,8 @@
 
 Basic Statistics
 ###  Turkish Bibliography ###  n=1477,  NA=780 , all=2257
-     Year        Frequency    
+|      Year      |      Frequency  |
+| -- | -- |
  Min.   :1938     Min.   : 1.00  
  1st Qu.:1961   1st Qu.: 6.25  
  Median :1974   Median :18.50  
@@ -12,7 +13,8 @@ Basic Statistics
  Max.   :2001    Max.   :90.00  
 
 ###  English Bibliography ### n=3111, NA=18,  all=3129
-      Year            Frequency         
+ |      Year      |      Frequency  |
+| -- | -- |     
  Min.   :1915   Min.   :  1.00  
  1st Qu.:1936   1st Qu.:  5.00  
  Median :1958   Median : 18.00  
@@ -21,7 +23,8 @@ Basic Statistics
  Max.   :2001   Max.   :182.00  
 
 ###  French Bibliography ### n=406, NA=3, all=409
-      Year            Frequency         
+|      Year      |      Frequency  |
+| -- | -- |    
  Min.   :1911   Min.   : 1.000  
  1st Qu.:1942   1st Qu.: 2.000  
  Median :1964   Median : 4.000  
@@ -30,7 +33,8 @@ Basic Statistics
  Max.   :2001   Max.   :19.000  
 
 ###  German Bibliography ### n=468, NA=3, all=471
-      Year            Frequency         
+|      Year      |      Frequency  |
+| -- | -- |   
  Min.   :1918   Min.   : 1.000  
  1st Qu.:1952   1st Qu.: 2.000  
  Median :1970   Median : 4.000  
@@ -40,7 +44,8 @@ Basic Statistics
 
 ###  Foreign(English, French, German) Bibliography ### n=3985, NA=25
 
-      Year        Frequency    
+|      Year      |      Frequency  |
+| -- | -- |   
  Min.   :1911   Min.   :  1.00  
  1st Qu.:1936   1st Qu.:  7.00  
  Median :1958   Median : 22.00  
