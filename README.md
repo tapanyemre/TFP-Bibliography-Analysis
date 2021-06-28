@@ -25,12 +25,12 @@ Basic Statistics
 ###  French Bibliography ### n=406, NA=3, all=409
 |      Year      |      Frequency  |
 | -- | -- |    
- Min.   :1911   Min.   : 1.000  
- 1st Qu.:1942   1st Qu.: 2.000  
- Median :1964   Median : 4.000  
- Mean   :1962   Mean   : 5.718  
- 3rd Qu.:1984   3rd Qu.: 8.500  
- Max.   :2001   Max.   :19.000  
+ Min.   :1911 |  Min.   : 1.000  
+ 1st Qu.:1942 |  1st Qu.: 2.000  
+ Median :1964 |  Median : 4.000  
+ Mean   :1962 |  Mean   : 5.718  
+ 3rd Qu.:1984 |  3rd Qu.: 8.500  
+ Max.   :2001 |  Max.   :19.000  
 
 ###  German Bibliography ### n=468, NA=3, all=471
 |      Year      |      Frequency  |
