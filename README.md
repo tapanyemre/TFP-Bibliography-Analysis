@@ -1,4 +1,4 @@
-# TFP-bibliography-Analysis
+# TFP-Bibliography-Analysis
 
 
 Basic Statistics
@@ -50,10 +50,11 @@ Basic Statistics
 
 ###  Combined Bibliography ###  n=5462, NA=805
 
-      Year            Frequency        
- Min.   :1911   Min.   :  1.00  
- 1st Qu.:1936   1st Qu.:  7.00  
- Median :1958   Median : 28.00  
- Mean   :1957   Mean   : 62.07  
- 3rd Qu.:1979   3rd Qu.: 96.50  
- Max.   :2001   Max.   :274.00  
+|      Year      |      Frequency  |
+| -- | -- |
+| Min.   :1911  | Min.   :  1.00  |
+| 1st Qu.:1936  | 1st Qu.:  7.00  |
+| Median :1958  | Median : 28.00  |
+| Mean   :1957  | Mean   : 62.07  |
+| 3rd Qu.:1979  | 3rd Qu.: 96.50  |
+| Max.   :2001  | Max.   :274.00  |
