@@ -1,8 +1,10 @@
-# TFP-Bibliography-Analysis
+### TFP-Bibliography-Analysis
 
+## Descriptive Statistics
 
-Basic Statistics
-###  Turkish Bibliography ###  n=1477,  NA=780 , all=2257
+#  Turkish Bibliography 
+#  n=1477,  NA=780 , all=2257
+
 |      Year      |      Frequency  |
 | -- | -- |
  Min.   :1938 |    Min.   : 1.00  
@@ -12,7 +14,9 @@ Basic Statistics
  3rd Qu.:1988 |  3rd Qu.:44.00  
  Max.   :2001 |   Max.   :90.00  
 
-###  English Bibliography ### n=3111, NA=18,  all=3129
+#  English Bibliography 
+# n=3111, NA=18,  all=3129
+
  |      Year      |      Frequency  |
 | -- | -- |     
  Min.   :1915 |  Min.   :  1.00  
@@ -22,7 +26,9 @@ Basic Statistics
  3rd Qu.:1980 |  3rd Qu.: 55.50  
  Max.   :2001 |  Max.   :182.00  
 
-###  French Bibliography ### n=406, NA=3, all=409
+#  French Bibliography 
+# n=406, NA=3, all=409
+
 |      Year      |      Frequency  |
 | -- | -- |    
  Min.   :1911 |  Min.   : 1.000  
@@ -32,7 +38,9 @@ Basic Statistics
  3rd Qu.:1984 |  3rd Qu.: 8.500  
  Max.   :2001 |  Max.   :19.000  
 
-###  German Bibliography ### n=468, NA=3, all=471
+#  German Bibliography 
+# n=468, NA=3, all=471
+
 |      Year      |      Frequency  |
 | -- | -- |   
  Min.   :1918 |  Min.   : 1.000  
@@ -42,7 +50,8 @@ Basic Statistics
  3rd Qu.:1986 |  3rd Qu.:13.250  
  Max.   :2001 |  Max.   :25.000  
 
-###  Foreign(English, French, German) Bibliography ### n=3985, NA=25
+#  Foreign(English, French, German) Bibliography 
+# n=3985, NA=25
 
 |      Year      |      Frequency  |
 | -- | -- |   
@@ -53,7 +62,8 @@ Basic Statistics
  3rd Qu.:1979 |  3rd Qu.: 72.00  
  Max.   :2001 |  Max.   :212.00  
 
-###  Combined Bibliography ###  n=5462, NA=805
+#  Combined Bibliography 
+# n=5462, NA=805
 
 |      Year      |      Frequency  |
 | -- | -- |
