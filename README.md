@@ -14,4 +14,5 @@ Bu projenin sayfasında bütün çıktılar indirilebilir formatta eklenmiştir.
 - Makine öğrenmesi yoluyla bulunan konular ['Topics'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/Title%20Analysis/Topics),
 - Kelime bulutu görselleştirmeleri ['Wordclouds'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/Title%20Analysis/Wordclouds),
 - Yıllara göre yapılan analizler ve görseleştirmeler ise ['Yearly Frequencies'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/Yearly%20Frequencies) 
+
 dosylarında bulunabilir.
