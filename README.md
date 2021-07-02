@@ -4,18 +4,14 @@ Bu dökümanda Türk Dış Politikası üzerine Mustafa Aydın ve diğerlerinin 
 
 ## Dosyaların İçeriği
 
-Bu projenin sayfasında bütün çıktılar indirilebilir formatta eklenmiştir.
-
-* Yazar, yayınevi ve yayın türü gibi başlıkların analiz sonuçları aynı dosya içerisinde excel formatında eklenmiştir.
-- Türkçe yayınlar için sonuçlar ['Turkish Documents'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/Turkish%20Documents),
-- Ingizlice yayınlar için sonuçlar ['English Documents'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/English%20Documents),
-- Almanca yayınlar için sonuçlar ['German Documents'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/German%20Documents),
-- Fransizca yayınlar için sonuçlar ['French Documents'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/French%20Documents),
-
-* Başlık analizleri ['Title Analysis'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/Title%20Analysis),
+Bu projenin sayfasında bütün çıktılar indirilebilir formatta eklenmiştir. Yazar, yayınevi ve yayın türü gibi başlıkların analiz sonuçları aynı dosya içerisinde excel formatında eklenmiştir.
+- Türkçe yayınlardaki yazar, yayınevi ve yayın türü gibi başlıkların sonuçları ['Turkish Documents'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/Turkish%20Documents),
+- Ingizlice yayınlardaki yazar, yayınevi ve yayın türü gibi başlıkların sonuçları ['English Documents'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/English%20Documents),
+- Almanca yayınlardaki yazar, yayınevi ve yayın türü gibi başlıkların sonuçları ['German Documents'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/German%20Documents),
+- Fransizca yayınlardaki yazar, yayınevi ve yayın türü gibi başlıkların sonuçları ['French Documents'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/French%20Documents),
+- Başlık analizlerinin hepsi ['Title Analysis'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/Title%20Analysis),
 - En çok geçen kelimeler ['Top Words'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/Title%20Analysis/Top%20Words),
 - Makine öğrenmesi yoluyla bulunan konular ['Topics'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/Title%20Analysis/Topics),
 - Kelime bulutu görselleştirmeleri ['Wordclouds'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/Title%20Analysis/Wordclouds),
-
-* Yıllara göre yapılan analizler ve görseleştirmeler ise ['Yearly Frequencies'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/Yearly%20Frequencies) 
-dosylarinda bulunabilir.
+- Yıllara göre yapılan analizler ve görseleştirmeler ise ['Yearly Frequencies'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/Yearly%20Frequencies) 
+dosylarında bulunabilir.
