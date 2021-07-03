@@ -20,8 +20,19 @@ dosylarında bulunabilir.
 
 ## Yıllara Göre İstatistikler
 
-###  Turkish Bibliography 
-####  n=1477,  NA=780 , all=2257
+Aşağıdaki tablolarda yıllara göre makale sayılarının temel betimsel analizi yapılmıştır. Kısaltmaların açılımı şu şekildedir: 
+- Min. : Minimum
+- 1st Qu. : 1. Çeyrek
+- Median: Orta değer
+- Mean: Ortalama
+- 3rd Qu. : 3. Çeyrek
+- Max. : Maximum
+- n : tarih bilgisi olan makale sayısı
+- NA : tarih bilgisi yer almayan makale sayısı
+- all : toplam makale sayısı
+
+#### Türkçe
+n=1477,  NA=780 , all=2257
 
 |      Year      |      Frequency  |
 | -- | -- |
@@ -32,8 +43,8 @@ dosylarında bulunabilir.
  3rd Qu.:1988 |  3rd Qu.:44.00  
  Max.   :2001 |   Max.   :90.00  
 
-###  English Bibliography 
-#### n=3111, NA=18,  all=3129
+#### İngilizce
+n=3111, NA=18,  all=3129
 
  |      Year      |      Frequency  |
 | -- | -- |     
@@ -44,8 +55,20 @@ dosylarında bulunabilir.
  3rd Qu.:1980 |  3rd Qu.: 55.50  
  Max.   :2001 |  Max.   :182.00  
 
-###  French Bibliography 
-#### n=406, NA=3, all=409
+#### Almanca
+n=468, NA=3, all=471
+
+|      Year      |      Frequency  |
+| -- | -- |   
+ Min.   :1918 |  Min.   : 1.000  
+ 1st Qu.:1952 |  1st Qu.: 2.000  
+ Median :1970 |  Median : 4.000  
+ Mean   :1967 |  Mean   : 7.548  
+ 3rd Qu.:1986 |  3rd Qu.:13.250  
+ Max.   :2001 |  Max.   :25.000  
+ 
+####  Fransızca
+n=406, NA=3, all=409
 
 |      Year      |      Frequency  |
 | -- | -- |    
@@ -56,20 +79,9 @@ dosylarında bulunabilir.
  3rd Qu.:1984 |  3rd Qu.: 8.500  
  Max.   :2001 |  Max.   :19.000  
 
-### German Bibliography 
-#### n=468, NA=3, all=471
 
-|      Year      |      Frequency  |
-| -- | -- |   
- Min.   :1918 |  Min.   : 1.000  
- 1st Qu.:1952 |  1st Qu.: 2.000  
- Median :1970 |  Median : 4.000  
- Mean   :1967 |  Mean   : 7.548  
- 3rd Qu.:1986 |  3rd Qu.:13.250  
- Max.   :2001 |  Max.   :25.000  
-
-###  Foreign(English, French, German) Bibliography 
-#### n=3985, NA=25
+####  Yabancı(İngilizce, Fransızca, Almanca) 
+n=3985, NA=25
 
 |      Year      |      Frequency  |
 | -- | -- |   
@@ -80,8 +92,8 @@ dosylarında bulunabilir.
  3rd Qu.:1979 |  3rd Qu.: 72.00  
  Max.   :2001 |  Max.   :212.00  
 
-###  Combined Bibliography 
-#### n=5462, NA=805
+####  Toplam
+n=5462, NA=805
 
 |      Year      |      Frequency  |
 | -- | -- |
