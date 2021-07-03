@@ -157,12 +157,19 @@ n=5462, NA=805
 ## 5. Yazar Analizleri
 
 #### 5.1. Türkçe 
+![image](https://user-images.githubusercontent.com/39954113/124369123-33003980-dc71-11eb-8160-43d99564a1d0.png)
 
 #### 5.2. İngilizce 
 
+![image](https://user-images.githubusercontent.com/39954113/124369153-68a52280-dc71-11eb-9dc2-7a2269a29eb4.png)
+
 #### 5.3. Almanca 
 
+![image](https://user-images.githubusercontent.com/39954113/124369166-8ffbef80-dc71-11eb-9e19-4ab57c182d37.png)
+
 #### 5.4. Fransızca 
+
+![image](https://user-images.githubusercontent.com/39954113/124369185-b6218f80-dc71-11eb-9033-531e062875bb.png)
 
 ## 6. Yayın Türü Analizleri
 
