@@ -34,10 +34,11 @@ Aşağıdaki tablolarda yıllara göre makale sayılarının temel betimsel anal
 - all : toplam makale sayısı
 
 #### 3.1. Türkçe
+
+
+![Turkce Makale Sikligi](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Yearly%20Frequencies/tr_yearly.png) 
+
 n=1477,  NA=780 , all=2257
-
-![Turkce Makale Sikligi](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Yearly%20Frequencies/tr_yearly.png) |
-
 |      Year      |      Frequency  |  
 | -- | -- |
  Min.   :1938 |    Min.   : 1.00  
@@ -48,6 +49,9 @@ n=1477,  NA=780 , all=2257
  Max.   :2001 |   Max.   :90.00  
 
 #### 3.2. İngilizce
+
+![Ingilizce Makale Sikligi](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Yearly%20Frequencies/en_yearly.png) 
+
 n=3111, NA=18,  all=3129
 
  |      Year      |      Frequency  |
@@ -60,6 +64,9 @@ n=3111, NA=18,  all=3129
  Max.   :2001 |  Max.   :182.00  
 
 #### 3.3. Almanca
+
+![Almanca Makale Sikligi](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Yearly%20Frequencies/de_yearly.png) 
+
 n=468, NA=3, all=471
 
 |      Year      |      Frequency  |
@@ -72,6 +79,9 @@ n=468, NA=3, all=471
  Max.   :2001 |  Max.   :25.000  
  
 #### 3.4.  Fransızca
+
+![Fransizca Makale Sikligi](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Yearly%20Frequencies/fre_yearly.png) 
+
 n=406, NA=3, all=409
 
 |      Year      |      Frequency  |
@@ -85,6 +95,9 @@ n=406, NA=3, all=409
 
 
 ####  3.5. Yabancı(İngilizce, Fransızca, Almanca) 
+
+![Yabanci Makale Sikligi](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Yearly%20Frequencies/foreign_yearly.png) 
+
 n=3985, NA=25
 
 |      Year      |      Frequency  |
@@ -97,6 +110,9 @@ n=3985, NA=25
  Max.   :2001 |  Max.   :212.00  
 
 #### 3.6.  Toplam
+
+![Toplam Makale Sikligi](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Yearly%20Frequencies/all_yearly.png) 
+
 n=5462, NA=805
 
 |      Year      |      Frequency  |
