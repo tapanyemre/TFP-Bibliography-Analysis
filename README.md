@@ -112,6 +112,9 @@ n=5462, NA=805
 
 #### 4.1.1. Türkçe 
 
+word	Kıbrıs	Sorun	Politika 	Avrupa	Yunan	Atatürk	Dünya	Siyasi	Savaş	Amerikan	Uluslararası	Sovyet	Ortadoğu	NATO	Ege	Alman	Batı	Stratejik	Doğu	Ermeni	Jeopolitik	Ekonomik	Fransız	Lozan	Hukuki	Döneminde	Rusya	Balkanlar	Barış 	Güvenlik 	AET	Değişen 	Su	Körfez	İngiliz	Irak	Sorunlar	İşbirliği	Mücadele	Gümrük	Askeri	Kuzey	Trakya	Savunma	Asya	Dostluk 	İran	Boğazlar	Arap	güvenliği	konumu	krizi	Dışişleri	Devlet	Güç	Bulgaristan	İslam 	uyuşmazlığı	Osmanlı	Kürt	Ada
+n	221	171	163	135	133	105	93	87	70	70	64	55	54	54	49	48	47	47	43	42	33	33	32	31	31	30	30	28	27	27	27	26	25	24	23	23	21	20	20	20	18	17	17	16	15	15	15	15	14	13	13	13	12	12	12	12	12	12	10	10	10![image](https://user-images.githubusercontent.com/39954113/124342995-f54bd400-dbd0-11eb-86d6-d59ff49e6d66.png)
+
 #### 4.1.2. İngilizce 
 
 #### 4.1.3. Almanca 
