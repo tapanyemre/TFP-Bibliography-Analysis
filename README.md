@@ -36,7 +36,9 @@ Aşağıdaki tablolarda yıllara göre makale sayılarının temel betimsel anal
 #### 3.1. Türkçe
 n=1477,  NA=780 , all=2257
 
-|      Year      |      Frequency  |  ![Turkce Makale Sikligi](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Yearly%20Frequencies/tr_yearly.png) |
+![Turkce Makale Sikligi](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Yearly%20Frequencies/tr_yearly.png) |
+
+|      Year      |      Frequency  |  
 | -- | -- |
  Min.   :1938 |    Min.   : 1.00  
  1st Qu.:1961 |  1st Qu.: 6.25  
