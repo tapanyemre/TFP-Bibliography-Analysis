@@ -195,21 +195,37 @@ n=5462, NA=805
 
 #### 6.1.1. Türkçe 
 
+![image](https://user-images.githubusercontent.com/39954113/124369272-ace4f280-dc72-11eb-8896-f74fab62b167.png)
+
 #### 6.1.2. İngilizce 
+
+![image](https://user-images.githubusercontent.com/39954113/124369279-c71ed080-dc72-11eb-8035-188c71aa86cd.png)
 
 #### 6.1.3. Almanca 
 
+![image](https://user-images.githubusercontent.com/39954113/124369287-d9990a00-dc72-11eb-94a7-9840309ae5e1.png)
+
 #### 6.1.4. Fransızca 
+
+![image](https://user-images.githubusercontent.com/39954113/124369295-f2a1bb00-dc72-11eb-85e1-ea03c9b50a5f.png)
 
 ### 6.2. Dergi Makalesi
 
 #### 6.2.1. Türkçe 
 
+![image](https://user-images.githubusercontent.com/39954113/124369305-136a1080-dc73-11eb-8e91-1648de101205.png)
+
 #### 6.2.2. İngilizce 
+
+![image](https://user-images.githubusercontent.com/39954113/124369318-41e7eb80-dc73-11eb-97ff-1aa4b9b9a30a.png)
 
 #### 6.2.3. Almanca 
 
+![image](https://user-images.githubusercontent.com/39954113/124369327-5deb8d00-dc73-11eb-933b-b8c70e3be11f.png)
+
 #### 6.2.4. Fransızca 
+
+![image](https://user-images.githubusercontent.com/39954113/124369336-7360b700-dc73-11eb-8114-af9dc3410d3d.png)
 
 ### 6.3. Kitap/Rapor 
 
