@@ -1,8 +1,10 @@
 # Türk Dış Politikası Kaynakçalarının Analizi (2000 yılına kadar)
 
+## 1. Giriş
+
 Bu dökümanda Türk Dış Politikası üzerine Mustafa Aydın ve diğerlerinin hazırladığı kapsamlı kaynakçaların istatiksel analizi yapılacaktır. Bu raporda analiz edilen iki kaynakça vardır. Türkçe çalışmaları toplayan birinci kaynakça 1923-2000 yılları arasını kapsamaktadır. İkinci kaynakça ise İngilizce, Fransızca ve Almanca dillerinde 1919-2001 yılları arasında yayınlanmış çalışmaları indekslemektedir. Analiz yapılırken hem kaynakçaların hepsi beraber değerlendirilmiş hem de farklı diller ayrı ayrı analize tabi tutulmuştur. Analizde ilk olarak yıllara göre yayınlanan çalışmaların sıklığını özetleyecek ve görsellerle sunacaktır. Daha sonra, yazar, yayınevi ve yayın türü gibi başlıklar istatisksel olarak değerlendirilecektir. En sonunda ise yayın başlıklarında geçen kelimelerin analizi yapılacaktır. 
 
-## Dosyaların İçeriği
+## 2. Dosyaların İçeriği
 
 Bu projenin sayfasında bütün çıktılar indirilebilir formatta eklenmiştir. Yazar, yayınevi ve yayın türü gibi başlıkların analiz sonuçları aynı dosya içerisinde excel formatında eklenmiştir.
 - Türkçe yayınlardaki yazar, yayınevi ve yayın türü gibi başlıkların sonuçları ['Turkish Documents'](https://github.com/tapanyemre/TFP-Bibliography-Analysis/tree/main/Turkish%20Documents),
@@ -18,7 +20,7 @@ Bu projenin sayfasında bütün çıktılar indirilebilir formatta eklenmiştir.
 dosylarında bulunabilir.
 
 
-## Yıllara Göre İstatistikler
+## 3. Yıllara Göre İstatistikler
 
 Aşağıdaki tablolarda yıllara göre makale sayılarının temel betimsel analizi yapılmıştır. Kısaltmaların açılımı şu şekildedir: 
 - Min. : Minimum
@@ -31,7 +33,7 @@ Aşağıdaki tablolarda yıllara göre makale sayılarının temel betimsel anal
 - NA : tarih bilgisi yer almayan makale sayısı
 - all : toplam makale sayısı
 
-#### Türkçe
+#### 3.1. Türkçe
 n=1477,  NA=780 , all=2257
 
 |      Year      |      Frequency  |
@@ -43,7 +45,7 @@ n=1477,  NA=780 , all=2257
  3rd Qu.:1988 |  3rd Qu.:44.00  
  Max.   :2001 |   Max.   :90.00  
 
-#### İngilizce
+#### 3.2. İngilizce
 n=3111, NA=18,  all=3129
 
  |      Year      |      Frequency  |
@@ -55,7 +57,7 @@ n=3111, NA=18,  all=3129
  3rd Qu.:1980 |  3rd Qu.: 55.50  
  Max.   :2001 |  Max.   :182.00  
 
-#### Almanca
+#### 3.3. Almanca
 n=468, NA=3, all=471
 
 |      Year      |      Frequency  |
@@ -67,7 +69,7 @@ n=468, NA=3, all=471
  3rd Qu.:1986 |  3rd Qu.:13.250  
  Max.   :2001 |  Max.   :25.000  
  
-####  Fransızca
+#### 3.4.  Fransızca
 n=406, NA=3, all=409
 
 |      Year      |      Frequency  |
@@ -80,7 +82,7 @@ n=406, NA=3, all=409
  Max.   :2001 |  Max.   :19.000  
 
 
-####  Yabancı(İngilizce, Fransızca, Almanca) 
+####  3.5. Yabancı(İngilizce, Fransızca, Almanca) 
 n=3985, NA=25
 
 |      Year      |      Frequency  |
@@ -92,7 +94,7 @@ n=3985, NA=25
  3rd Qu.:1979 |  3rd Qu.: 72.00  
  Max.   :2001 |  Max.   :212.00  
 
-####  Toplam
+#### 3.6.  Toplam
 n=5462, NA=805
 
 |      Year      |      Frequency  |
@@ -104,88 +106,89 @@ n=5462, NA=805
 | 3rd Qu.:1979  | 3rd Qu.: 96.50  |
 | Max.   :2001  | Max.   :274.00  |
 
-## Başlıklardaki Kelimelerin Analizi
+## 4. Başlıklardaki Kelimelerin Analizi
 
-### En Çok Geçen Kelimeler
+### 4.1. En Çok Geçen Kelimeler
 
-#### Türkçe 
+#### 4.1.1. Türkçe 
 
-#### İngilizce 
+#### 4.1.2. İngilizce 
 
-#### Almanca 
+#### 4.1.3. Almanca 
 
-#### Fransızca 
+#### 4.1.4. Fransızca 
 
 
 
-### Tahmini Konular
+### 4.2. Tahmini Konular
 
-#### Türkçe 
+#### 4.2.1. Türkçe 
 
-#### İngilizce 
+#### 4.2.2. İngilizce 
 
-#### Almanca 
+#### 4.2.3. Almanca 
 
-#### Fransızca 
+#### 4.2.4. Fransızca 
 
-### Kelime Bulutu Görselleştirmeleri
 
-#### Türkçe 
+### 4.3. Kelime Bulutu Görselleştirmeleri
 
-#### İngilizce 
+#### 4.3.1. Türkçe 
 
-#### Almanca 
+#### 4.3.2. İngilizce 
 
-#### Fransızca 
+#### 4.3.3. Almanca 
 
-## Yazar Analizleri
+#### 4.3.4. Fransızca 
 
-#### Türkçe 
+## 5. Yazar Analizleri
 
-#### İngilizce 
+#### 5.1. Türkçe 
 
-#### Almanca 
+#### 5.2. İngilizce 
 
-#### Fransızca 
+#### 5.3. Almanca 
 
-## Yayın Türü Analizleri
+#### 5.4. Fransızca 
 
-### Konferans/Seminer
+## 6. Yayın Türü Analizleri
 
-#### Türkçe 
+### 6.1. Konferans/Seminer
 
-#### İngilizce 
+#### 6.1.1. Türkçe 
 
-#### Almanca 
+#### 6.1.2. İngilizce 
 
-#### Fransızca 
+#### 6.1.3. Almanca 
 
-### Dergi Makalesi
+#### 6.1.4. Fransızca 
 
-#### Türkçe 
+### 6.2. Dergi Makalesi
 
-#### İngilizce 
+#### 6.2.1. Türkçe 
 
-#### Almanca 
+#### 6.2.2. İngilizce 
 
-#### Fransızca 
+#### 6.2.3. Almanca 
 
-### Kitap/Rapor 
+#### 6.2.4. Fransızca 
 
-#### Türkçe 
+### 6.3. Kitap/Rapor 
 
-#### İngilizce 
+#### 6.3.1. Türkçe 
 
-#### Almanca 
+#### 6.3.2. İngilizce 
 
-#### Fransızca 
+#### 6.3.3. Almanca 
 
-## Basım Yeri Analizleri
+#### 6.3.4. Fransızca 
 
-#### Türkçe 
+## 7. Basım Yeri Analizleri
 
-#### İngilizce 
+#### 7.1. Türkçe 
 
-#### Almanca 
+#### 7.2. İngilizce 
 
-#### Fransızca 
+#### 7.3. Almanca 
+
+#### 7.4. Fransızca 
