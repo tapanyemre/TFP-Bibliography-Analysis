@@ -121,6 +121,7 @@ n=5462, NA=805
 
 #### 4.1.4. Fransızca 
 
+![image](https://user-images.githubusercontent.com/39954113/124368752-dc90fc00-dc6c-11eb-8345-9a721d4fcd52.png)
 
 
 ### 4.2. Tahmini Konular
