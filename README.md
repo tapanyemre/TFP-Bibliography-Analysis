@@ -129,12 +129,15 @@ n=5462, NA=805
 ### 4.2. Tahmini Konular
 
 #### 4.2.1. Türkçe 
-
+![Turkce](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Title%20Analysis/Topics/tr_topics.png)
 #### 4.2.2. İngilizce 
+![Ingilizce](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Title%20Analysis/Topics/en_topics_tidy.png)
 
 #### 4.2.3. Almanca 
+![Almanca](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Title%20Analysis/Topics/de_topics_tidy.png)
 
 #### 4.2.4. Fransızca 
+![Fransizca](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Title%20Analysis/Topics/fre_topics_tidy.png)
 
 
 ### 4.3. Kelime Bulutu Görselleştirmeleri
