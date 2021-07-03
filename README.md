@@ -117,6 +117,43 @@ n=5462, NA=805
 #### 4.1.2. İngilizce 
 
 #### 4.1.3. Almanca 
+No	Word	N
+1	Europa	68
+2	griechenland	44
+3	politik	38
+4	zypern	27
+5	Osten	25
+6	gemeinschaft	21
+7	atatürk	19
+8	entwicklungen	19
+9	neuen	18
+10	EG	14
+11	islam	14
+12	wirtschaftlichen	13
+13	konflikt	12
+14	Weltkrieg	11
+15	probleme	11
+16	Kurdistan/PKK	11
+17	Sicherheit 	10
+18	ägäis	10
+19	Balkan	9
+20	Mittelmeer	9
+21	sowjetunion	9
+22	internationalen	8
+23	Regionalmacht	8
+24	frage	7
+25	rolle	7
+26	republik	7
+27	west	7
+28	golfkrieg	7
+29	mittelasien	7
+30	bosporus	6
+31	brücke	6
+32	welt	6
+33	nato	6
+34	bundesrepublik	6
+35	iran	6![image](https://user-images.githubusercontent.com/39954113/124367429-c7fa3700-dc5f-11eb-90ca-e91900724c58.png)
+
 
 #### 4.1.4. Fransızca 
 
