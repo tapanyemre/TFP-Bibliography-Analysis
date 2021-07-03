@@ -116,6 +116,8 @@ n=5462, NA=805
 
 #### 4.1.2. İngilizce 
 
+![image](https://user-images.githubusercontent.com/39954113/124368932-ef0c3500-dc6e-11eb-833e-764a7ae6eb5f.png)
+
 #### 4.1.3. Almanca 
 ![image](https://user-images.githubusercontent.com/39954113/124367429-c7fa3700-dc5f-11eb-90ca-e91900724c58.png)
 
