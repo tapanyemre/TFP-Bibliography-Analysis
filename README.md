@@ -111,7 +111,8 @@ n=5462, NA=805
 ### 4.1. En Çok Geçen Kelimeler
 
 #### 4.1.1. Türkçe 
-![image](https://user-images.githubusercontent.com/39954113/124343055-51aef380-dbd1-11eb-8081-b03f4c048502.png)
+
+![image](https://user-images.githubusercontent.com/39954113/124343097-99ce1600-dbd1-11eb-9cd7-875e10d57bbe.png)
 
 #### 4.1.2. İngilizce 
 
