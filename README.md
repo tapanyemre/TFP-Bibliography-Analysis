@@ -143,12 +143,16 @@ n=5462, NA=805
 ### 4.3. Kelime Bulutu Görselleştirmeleri
 
 #### 4.3.1. Türkçe 
+![Turkce](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Title%20Analysis/Wordclouds/tr_wc_12.png)
 
 #### 4.3.2. İngilizce 
+![Ingilizce](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Title%20Analysis/Wordclouds/en_wordcloud.png)
 
 #### 4.3.3. Almanca 
+![Almanca](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Title%20Analysis/Wordclouds/de_wordcloud.png)
 
 #### 4.3.4. Fransızca 
+![Fransizca](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Title%20Analysis/Wordclouds/fre_wordclouds.png)
 
 ## 5. Yazar Analizleri
 
