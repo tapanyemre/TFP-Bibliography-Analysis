@@ -111,27 +111,7 @@ n=5462, NA=805
 ### 4.1. En Çok Geçen Kelimeler
 
 #### 4.1.1. Türkçe 
-
-Kıbrıs	221
-Sorun	171
-Politika 	163
-Avrupa	135
-Yunan	133
-Atatürk	105
-Dünya	93
-Siyasi	87
-Savaş	70
-Amerikan	70
-Uluslararası	64
-Sovyet	55
-Ortadoğu	54
-NATO	54
-Ege	49
-Alman	48
-Batı	47
-Stratejik	47
-Doğu	43
-Ermeni	42![image](https://user-images.githubusercontent.com/39954113/124343055-51aef380-dbd1-11eb-8081-b03f4c048502.png)
+![image](https://user-images.githubusercontent.com/39954113/124343055-51aef380-dbd1-11eb-8081-b03f4c048502.png)
 
 #### 4.1.2. İngilizce 
 
