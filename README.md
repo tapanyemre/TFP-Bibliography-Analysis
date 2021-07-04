@@ -65,6 +65,8 @@ n=3111, NA=18,  all=3129
  3rd Qu.:1980 |  3rd Qu.: 55.50  
  Max.   :2001 |  Max.   :182.00  
 
+**Eksik yil yok.**
+
 #### 3.3. Almanca
 
 ![Almanca Makale Sikligi](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Yearly%20Frequencies/de_yearly.png) 
