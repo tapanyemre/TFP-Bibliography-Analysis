@@ -227,15 +227,41 @@ n=5462, NA=805
 
 ![image](https://user-images.githubusercontent.com/39954113/124369336-7360b700-dc73-11eb-8114-af9dc3410d3d.png)
 
-### 6.3. Kitap/Rapor 
+### 6.3. Yayınevi
 
 #### 6.3.1. Türkçe 
 
+![image](https://user-images.githubusercontent.com/39954113/124369352-bf136080-dc73-11eb-8948-968e6dbaafc1.png)
+
 #### 6.3.2. İngilizce 
+
+![image](https://user-images.githubusercontent.com/39954113/124369361-d5212100-dc73-11eb-9e0f-f99c4708b30c.png)
 
 #### 6.3.3. Almanca 
 
+![image](https://user-images.githubusercontent.com/39954113/124369364-e9651e00-dc73-11eb-8f12-d0ac48465a29.png)
+
 #### 6.3.4. Fransızca 
+
+![image](https://user-images.githubusercontent.com/39954113/124369376-fd108480-dc73-11eb-89f0-ec3e7d39f8ef.png)
+
+### 6.4. Kuruluşlar
+
+#### 6.4.1. Türkçe 
+
+![image](https://user-images.githubusercontent.com/39954113/124369388-26311500-dc74-11eb-806c-d0ac3121bb3b.png)
+
+#### 6.4.2. İngilizce 
+
+![image](https://user-images.githubusercontent.com/39954113/124369398-42cd4d00-dc74-11eb-96de-02ec6538f551.png)
+
+#### 6.4.3. Almanca 
+
+![image](https://user-images.githubusercontent.com/39954113/124369414-65f7fc80-dc74-11eb-9523-0996f9ba39ab.png)
+
+#### 6.4.4. Fransızca 
+
+![image](https://user-images.githubusercontent.com/39954113/124369446-9b044f00-dc74-11eb-8147-7459ea5cf495.png)
 
 ## 7. Basım Yeri Analizleri
 
@@ -243,6 +269,12 @@ n=5462, NA=805
 
 #### 7.2. İngilizce 
 
+![image](https://user-images.githubusercontent.com/39954113/124369460-bd966800-dc74-11eb-94e8-134a1913e93e.png)
+
 #### 7.3. Almanca 
 
+![image](https://user-images.githubusercontent.com/39954113/124369483-e3bc0800-dc74-11eb-81ee-6e3a8b0d8b14.png)
+
 #### 7.4. Fransızca 
+
+![image](https://user-images.githubusercontent.com/39954113/124369469-d30b9200-dc74-11eb-88a0-b68a632d2801.png)
