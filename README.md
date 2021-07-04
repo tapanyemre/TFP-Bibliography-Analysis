@@ -48,6 +48,8 @@ n=1477,  NA=780 , all=2257
  3rd Qu.:1988 |  3rd Qu.:44.00  
  Max.   :2001 |   Max.   :90.00  
 
+**Eksik yillar**: 1939, 1940, 1941, 1942, 1943, 1944, 1945, 1946, 1949, 1951
+
 #### 3.2. İngilizce
 
 ![Ingilizce Makale Sikligi](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Yearly%20Frequencies/en_yearly.png) 
