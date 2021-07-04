@@ -79,7 +79,29 @@ n=468, NA=3, all=471
  Mean   :1967 |  Mean   : 7.548  
  3rd Qu.:1986 |  3rd Qu.:13.250  
  Max.   :2001 |  Max.   :25.000  
- 
+
+**Eksik yillar**: 1921
+1922
+1923
+1924
+1926
+1927
+1928
+1932
+1933
+1934
+1939
+1942
+1944
+1945
+1946
+1947
+1948
+1950
+1951
+1953
+1956
+
 #### 3.4.  Fransızca
 
 ![Fransizca Makale Sikligi](https://github.com/tapanyemre/TFP-Bibliography-Analysis/blob/main/Yearly%20Frequencies/fre_yearly.png) 
@@ -95,6 +117,25 @@ n=406, NA=3, all=409
  3rd Qu.:1984 |  3rd Qu.: 8.500  
  Max.   :2001 |  Max.   :19.000  
 
+**Eksik yillar**: 1912
+1913
+1914
+1916
+1917
+1918
+1927
+1931
+1932
+1933
+1934
+1941
+1942
+1945
+1946
+1947
+1948
+1969
+1972
 
 ####  3.5. Yabancı(İngilizce, Fransızca, Almanca) 
 
